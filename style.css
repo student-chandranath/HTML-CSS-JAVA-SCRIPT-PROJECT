@@ -1,0 +1,37 @@
+body {
+     font-family: Arial;
+     background: rgb(33, 184, 235);
+     text-align: center;
+
+}
+h1 {
+  color:rgb(243, 66, 43);
+}
+
+input {
+  padding: 10px;
+  width: 60%;
+}
+
+button {
+  padding: 10px;
+  margin-left: 5px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background: #ba5bf8;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+li.done {
+  text-decoration: line-through;
+  color: gray;
+}

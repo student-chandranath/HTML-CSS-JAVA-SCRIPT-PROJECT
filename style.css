@@ -1,6 +1,6 @@
 body {
      font-family: Arial;
-     background: rgb(33, 184, 235);
+     background: rgb(33, 235, 70);
      text-align: center;
 
 }
@@ -34,4 +34,5 @@ li {
 li.done {
   text-decoration: line-through;
   color: gray;
+
 }
